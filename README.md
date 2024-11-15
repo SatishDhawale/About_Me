@@ -13,7 +13,7 @@ All about me
 
 Meet me, Satish Dhawale. I am a teacher, motivator, and entrepreneur based in Mumbai. I founded Skill Course, an online platform where people can learn about computers. I also run several YouTube channels, including "Learn More," which boasts over 2 million subscribers and millions of views.
 
-<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
+<img align="right" alt="GIF" src="https://github.com/SatishDhawale/SatishDhawale/blob/1ca00b90990f3b0d667c34332da2d660d636d4fa/Satish%20Dhawale.jpg" width="400" height="225" />
   
 
 **Talking about Personal Stuffs:**
